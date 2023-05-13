@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Instrument+Serif:ital@1&family=Montserrat:wght@100&display=swap');
+
+/* style.css */
+
+/* Styles for the student list */
+ol {
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for the chapter summaries */
+  h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  hr {
+    margin: 20px 0;
+    border: none;
+    border-top: 1px solid #ccc;
+  }
+  
+  /* Background gradient */
+  body {
+    background: linear-gradient(45deg, #ff725c, #ff4136);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
